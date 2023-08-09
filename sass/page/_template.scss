@@ -219,6 +219,7 @@ button {
                 flex: 1;
                 .img-container {
                     aspect-ratio: 1/1;
+                    background-color: transparent;
                     img {
                         object-fit: contain;
                     }
